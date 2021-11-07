@@ -1,5 +1,5 @@
 
-% This function transfers a vector to corresponding symmetric matrix  
+% This function transfers a vector to the corresponding symmetric matrix  
 
 function X = vec2sm(x,n)
 X = zeros(n);
