@@ -1,4 +1,4 @@
-# OLSPI
+# OLSbPI
 This is the code for the simulation part of the paper 
 > Pang, Bo, and Zhong-Ping Jiang. "Reinforcement Learning for Adaptive Optimal Stationary Control of Linear Stochastic Systems." arXiv preprint [arXiv:2107.07788](https://arxiv.org/abs/2107.07788) (2021).
 ## data_generate_MIMO.m
